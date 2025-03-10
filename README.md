@@ -12,12 +12,6 @@ O programa guiará o usuário com contagens regressivas para cada fase da respir
 Como executar o programa?
 1. Requisitos
 Ter o Python instalado (versão 3.x recomendada)
-2. Clonar o repositório (opcional)
-Se você estiver usando o Git:
-git clone https://github.com/seuusuario/respiracao-478.git
-cd respiracao-478
-3. Executar o programa
-Caso tenha salvo o script como respiracao.py, execute no terminal:
-python respiracao.py
+2. Executar o programa
 
 Este projeto está sob a licença MIT. Você pode usá-lo e modificá-lo livremente.
